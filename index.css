@@ -8,7 +8,7 @@
 .button {
     padding: 8px;
     background-color: #556B2F;
-    color:#F5F5DC;
+    color: #F5F5DC;
 }
 
 .title {
@@ -23,7 +23,7 @@
 .image {
     height: 100%;
     width: 100%;
-    
+
 }
 
 .card {
@@ -34,4 +34,5 @@
     margin: 10px;
     border-radius: 10px;
     box-shadow: 5px 5px 15px grey;
+    box-sizing: border-box;
 }
